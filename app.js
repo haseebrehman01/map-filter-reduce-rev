@@ -57,3 +57,26 @@
 //    return booksss.edition >= 2005
 // })
 // console.log(filteredBook)
+
+
+
+// >>>>>>>>>>>>>>>>> MAP >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+// const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// const maparr = myNums.map( (nums) => nums * 10)
+// console.log(maparr)
+
+
+//chaining
+// const chaining = myNums
+//                 .map((nums)=> nums * 10 )
+//                 .map((nums)=>nums+1)
+//                 .filter((nums)=>nums>50)
+
+//            console.log(chaining)     
+
+
+
+
+// >>>>>>>>>>>>>>>> Reduce >>>>>>>>>>>>>>>>
+
